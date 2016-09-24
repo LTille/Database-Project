@@ -1,0 +1,40 @@
+.sliderimage{
+	width:1121px;
+	height:500px;
+}
+
+body{
+	font-size: 18px;
+
+}
+
+.loginarea{
+	width:83px;
+}
+
+.new_nav{
+	background-color:#0066CC !important;
+}
+.navbar-inner{
+	 background-image: linear-gradient(to bottom, #0099CC, #0099FF) !important;
+	 color: #006699 !important;
+}
+.nav li, .nav a,.carousel-caption,.navbar-text a{
+	color: #CCFFFF !important;
+}
+.brand{
+	color: #CCFFFF !important;
+}
+.dropdown-menu{
+	background-color:#0099FF !important;
+}
+.bs-docs-example{
+	color:#2a2d2e !important;c
+}
+.span3 .well{
+	background-color:#0099FF !important;
+}
+.nav-header{
+	font-size: 15px;
+	color: #ffffff !important;
+}
